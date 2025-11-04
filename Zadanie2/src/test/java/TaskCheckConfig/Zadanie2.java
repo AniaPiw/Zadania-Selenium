@@ -32,7 +32,7 @@ public class Zadanie2 {
         //emailInput.clear();
         emailInput.sendKeys("fojitswppurxjijdbh@kvhrw.com");
         //passwordInput.clear();
-        passwordInput.sendKeys("KawazMlekiem");
+        passwordInput.sendKeys("Kat");
         signInButton.click();
 
         WebElement clothesButton = driver.findElement(
